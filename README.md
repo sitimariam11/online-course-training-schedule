@@ -11,16 +11,26 @@ Online course training schedule adalah aplikasi berbasis web yang dikembangkan t
 5. Rekapitulasi hasil inputan pelatihan
 
 ## Tampilan
-![Screenshot 2024-09-02 191018](https://github.com/user-attachments/assets/e3e4bd25-4d71-4d9b-b054-e4fd551b647c)
-![Screenshot 2024-09-02 191009](https://github.com/user-attachments/assets/7296b9c8-7910-4002-8d62-019b93bbdf25)
-![Screenshot 2024-09-02 190954](https://github.com/user-attachments/assets/d064ef43-74a9-4fbf-9dd9-a97c6c5563ad)
-![Screenshot 2024-09-02 190942](https://github.com/user-attachments/assets/1f847927-9e24-48da-9418-be11ceb79360)
-![Screenshot 2024-09-02 190747](https://github.com/user-attachments/assets/710bd1ac-467a-4365-8edc-145fc13a914c)
-![Screenshot 2024-09-02 190553](https://github.com/user-attachments/assets/bac89e0f-28ae-4e66-ab31-567bd323f793)
-![Screenshot 2024-09-02 190531](https://github.com/user-attachments/assets/c0f76063-3e57-4e5f-8351-1165ea2cdd7b)
-![Screenshot 2024-09-02 190436](https://github.com/user-attachments/assets/92a0d338-dc8a-40ed-9c41-d4c280a6a037)
-![halaman-awal](https://github.com/user-attachments/assets/f67f3d3a-4e58-4665-a5fd-3cc0d80069d3)
-![Screenshot 2024-09-02 194813](https://github.com/user-attachments/assets/ac481caa-547e-4034-bad6-780497fdb023)
-![Screenshot 2024-09-02 194640](https://github.com/user-attachments/assets/d976b399-bf5e-481d-9526-5abe61575d20)
-![Screenshot 2024-09-02 194453](https://github.com/user-attachments/assets/997bbaad-d82b-41e7-9866-df3fb477faf9)
-![Screenshot 2024-09-02 191045](https://github.com/user-attachments/assets/a2f91d55-bbbc-4232-8a40-9b47514c8a51)
+1. Halaman Awal
+![halaman-awal](https://github.com/user-attachments/assets/1b3b244a-0c33-4be2-a9b2-8bad0438e8c1)
+
+2. Tambah Jadwal
+![Screenshot 2024-09-02 190436](https://github.com/user-attachments/assets/9cbac2e7-ec64-4ead-b90c-3dff3f9ee312)
+![Screenshot 2024-09-02 190531](https://github.com/user-attachments/assets/80f72891-f40c-4a05-a55e-453f1ac229fd)
+![Screenshot 2024-09-02 190553](https://github.com/user-attachments/assets/e17910d6-127e-4cff-baa1-8982e8bf7671)
+
+3. Daftar Sesi
+![Screenshot 2024-09-02 190747](https://github.com/user-attachments/assets/cdbd3dee-d763-4e64-8fd9-9f06cc95dbc0)
+
+4. Edit sesi pelatihan
+![Screenshot 2024-09-02 190942](https://github.com/user-attachments/assets/50d131a8-a1cc-40e4-9c56-d1a00b69a5fc)
+![Screenshot 2024-09-02 190954](https://github.com/user-attachments/assets/9ceb0973-edc7-4c7e-8aa2-40e85295e0e3)
+
+5. Hapus sesi pelatihan
+![Screenshot 2024-09-02 191009](https://github.com/user-attachments/assets/d1155ca4-0d22-42c2-9514-8e4585e516dd)
+![Screenshot 2024-09-02 191018](https://github.com/user-attachments/assets/925b39fc-2c64-4043-a0e2-39824418253c)
+
+6. Rekapitulasi
+![Screenshot 2024-09-02 191045](https://github.com/user-attachments/assets/c941896a-85f9-4fd4-b0ef-2f929424fe36)
+ 
+
